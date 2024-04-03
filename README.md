@@ -1,1 +1,1 @@
-# This is locaal repo
+# This is local repo
